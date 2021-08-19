@@ -7,6 +7,7 @@ function getPin(){
     else{
         getPin();
     }
+    return getPin();
 
 }
 function generatePin(){
